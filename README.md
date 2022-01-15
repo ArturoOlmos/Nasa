@@ -15,4 +15,11 @@ You will need to fork the repository and build the solution in Github **publicly
 
 Implementation deadline is 3 days. Please let us know the time that you spent to achieve the task.
 
+## Solution
+Just copy the folder "cucmberframework" in your workspace and open it with eclipse
+
+It's a cucumber based solution so you can change the tag to run in "Runner.java"
+
+Features files are parametrized so you can "play" with the behaviour
+
 
